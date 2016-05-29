@@ -1,2 +1,3 @@
 This is a test markdown file for git practice
-Modifying to recreate conditions
+Modifying to recreate condition
+tests
